@@ -82,7 +82,6 @@ motto: "code. build. scale. repeat."
 ### 🐍 Contribution Snake
 
 > A pixel snake that eats through my daily commit graph — runs automatically every day via GitHub Actions.
-> (One-time setup needed — see **Setup Notes** below.)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kaddux/Kaddux/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
@@ -94,8 +93,8 @@ motto: "code. build. scale. repeat."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR-LEETCODE-ID/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-gupta-a23a66291/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Kaddux/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaddux)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshg352@gmail.com)
 
