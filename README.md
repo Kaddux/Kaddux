@@ -30,7 +30,7 @@ motto: "code. build. scale. repeat."
 ```
 
 - 💻 Backend-focused B.Tech student building with **Java 21, Spring Boot, Kafka & PostgreSQL**.
-- 🏢 Software Engineering Intern @ **Velocis Systems** — built an Employee Management System backend (Spring Boot, PostgreSQL, Redis, Docker).
+- 🏢 Ex-Software Engineering Intern @ **Velocis Systems** — built an Employee Management System backend (Spring Boot, PostgreSQL, Redis, Docker).
 - ⚙️ I like **concurrency, event-driven systems** and reliable messaging — transactional outbox, saga, idempotency.
 - 📚 Currently sharpening my skills in System Design & Distributed Systems.
 - 🧩 **270+ LeetCode** problems solved (150+ Medium, 30+ Hard).
